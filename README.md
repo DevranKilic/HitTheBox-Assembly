@@ -4,6 +4,8 @@ Dieses Projekt wurde im Rahmen des Praktikums "Grundlagen von Hardwaresystemen" 
 
 Dieses Projekt implementiert ein einfaches Spiel für eine 16-Bit RISC-Prozessorarchitektur im Rahmen eines Praktikums. Ziel ist es, ein steuerbares Sprite mit Hardwaretastern über den Bildschirm zu bewegen und eine zufällig platzierte Hitbox zu treffen. Die Umsetzung erfolgt vollständig in Assemblersprache innerhalb der Entwicklungsumgebung TINY RISC STUDIO v1.3.
 
+[![Watch on Youtube](https://img.youtube.com/vi/aKtMXF7Q4Ms/hqdefault.jpg)](https://youtu.be/aKtMXF7Q4Ms)
+
 ## Spielprinzip und Ablauf
 
 Das Programm basiert auf einer einfachen Zustandsmaschine mit drei Zuständen:
